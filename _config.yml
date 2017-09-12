@@ -15,7 +15,7 @@ baseurl: '/portfolio' #change it according to your repository name
 #Profile information
 name: Shanmukha Karthik
 tagline: Aspiring Data scientist
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: Camera360_2015_4_3_104926.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: shanmukhakarthik@hotmail.com
